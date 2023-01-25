@@ -1,0 +1,54 @@
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.exe
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.deps.json
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.runtimeconfig.json
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.pdb
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.Form1.resources
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.AssemblyInfo.cs
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.CopyComplete
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\refint\EntityDBApplication.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.pdb
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.genruntimeconfig.cache
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\ref\EntityDBApplication.dll
+C:\Users\Miguel\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.Migrations.InitialCreate.resources
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.exe
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.deps.json
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.runtimeconfig.json
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityDBApplication.pdb
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.AssemblyReference.cache
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.Form1.resources
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.Migrations.InitialCreate.resources
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.GenerateResource.cache
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.AssemblyInfoInputs.cache
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.AssemblyInfo.cs
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.csproj.CopyComplete
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\refint\EntityDBApplication.dll
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.pdb
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\EntityDBApplication.genruntimeconfig.cache
+C:\Users\Miguel Eduardo\Documents\programação\Estudos\EntityDBApplication\EntityDBApplication\obj\Debug\net6.0-windows\ref\EntityDBApplication.dll
